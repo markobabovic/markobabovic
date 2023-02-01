@@ -18,3 +18,12 @@
 <p>- 💬 Ask me about <b>React, Wordpress</b></p>
 <p>- 📫 How to reach me: <a href="mailto:babovic.marko@yahoo.com">babovic.marko@yahoo.com</a></p>
 
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
+
