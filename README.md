@@ -6,7 +6,7 @@
                 <b><a target="_blank" href="https://markobabovic.com/">Marko Babovic</a></b>
         </samp>
 </h3><br><br>
-<p aling="center">
+<p align="center">
         <samp>
                 「 I am Wordpress and Front-end developer from Serbia 」
                 <br>
